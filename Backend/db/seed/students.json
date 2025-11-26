@@ -1,0 +1,19 @@
+[
+  {
+    "student_id": "STU1764080945689",
+    "name": "Ganesh Kumar",
+    "class": "5",
+    "parent_name": "Ram Kumar",
+    "center_id": "MDA-CENTER-1",
+    "admission_scan": "storage\\admissions\\STU1764080945689.jpg"
+  },
+  {
+    "student_id": "STU1764087844187",
+    "name": "Ganesh Kumar",
+    "class": "5",
+    "parent_name": "Ram Kumar",
+    "center_id": "MDA-CENTER-1",
+    "admission_scan": "storage/admissions/STU1764087844187.jpg",
+    "created_at": "2025-11-25T16:24:04.190Z"
+  }
+]
