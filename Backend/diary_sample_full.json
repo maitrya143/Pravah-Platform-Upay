@@ -1,0 +1,35 @@
+{
+    "center_id": "MDA-CENTER-1",
+    "date": "2025-11-25",
+    "prepared_by": { "name": "Savita", "volunteer_id": "25MDA177" },
+    "total_enrolled": 50,
+    "present_count": 42,
+    "in_time": "09:05",
+    "out_time": "12:00",
+    "visitor": "",
+    "daily_checklist": {
+      "students_wore_id": true,
+      "volunteers_wore_id": true,
+      "footwear_placed": true,
+      "opening_prayer": true,
+      "thought_explained": true,
+      "physical_activity": true,
+      "closing_prayer": true
+    },
+    "volunteer_reports": [
+      { "volunteer_name": "Savita", "volunteer_id": "25MDA177", "in_time": "09:00", "out_time": "12:00", "subject_taught": "Maths", "topic": "Multiplication", "homework": "Sheet 1", "students_present": 20 },
+      { "volunteer_name": "Ramesh", "volunteer_id": "25MDA178", "in_time": "09:10", "out_time": "12:00", "subject_taught": "English", "topic": "Comprehension", "homework": "Read page 5", "students_present": 22 }
+    ],
+    "attendance_list": [
+      { "student_id": "STU1764087844187", "name": "Ganesh Kumar", "class": "5", "present": true }
+      
+    ],
+    "syllabus_progress": {
+      "Maths": "5/10",
+      "English": "3/8",
+      "Science": "2/6"
+    },
+    "remarks": "All good. Request more chalks.",
+    "signature": "Savita"
+  }
+  

@@ -1,0 +1,31 @@
+{
+    "center_id":"MDA-CENTER-1",
+    "center_name":"Mouda Centre 1",
+    "date":"2025-11-25",
+    "day":"Tuesday",
+    "prepared_by":{"volunteer_id":"25MDA177","name":"Savita"},
+    "daily_checklist":{
+      "class_started_time":"06:50",
+      "class_closed_time":"08:00",
+      "thought_of_the_day":"Be kind",
+      "opening_prayer_done":true,
+      "thought_explained":true,
+      "physical_activity_done":true,
+      "students_wore_id_card":true,
+      "volunteers_wore_id_card":true,
+      "footwear_placed_properly":true,
+      "note":"Good session"
+    },
+    "volunteer_reports":[
+      {"volunteer_name":"Savita","in_time":"06:50","out_time":"08:00","subject_taught":"Maths","topic_or_activity":"Basic Questions","students_present":48,"homework":"Practice tables","remarks":""}
+    ],
+    "attendance_summary":{
+      "enrolled":50,
+      "present_count":48,
+      "percentage_present":96,
+      "records":[{"student_id":"STU1764087844187","name":"Ganesh Kumar","class":"5","status":"Present"}]
+    },
+    "syllabus_snapshot":[{"subject":"Maths","topic":"Tables","is_completed":true,"completed_on":"2025-11-20"}],
+    "monthly_summary":{"month":"2025-11","working_days":22,"students_enrolled":50,"no_of_volunteers":3,"monthly_expenditure":1000,"feedback":"Need more chalks"}
+  }
+  
