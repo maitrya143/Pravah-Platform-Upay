@@ -1,0 +1,10 @@
+curl -X POST http://127.0.0.1:3000/api/students \
+ -H "Authorization: Bearer <TOKEN>" \
+ -H "Content-Type: multipart/form-data" \
+ -F "name=Ganesh" -F "class=5" -F "parent_name=Ram" \
+ -F "center_id=MDA-CENTER-1" \
+ -F "admission_scan=@./test.jpg"
+
+curl http://127.0.0.1:3000/api/students/STU123 -H "Authorization: Bearer <TOKEN>"
+curl http://127.0.0.1:3000/api/students/STU123/qr --output qr.png
+
