@@ -1,0 +1,41 @@
+[
+  {
+    "student_id": "2e77d66d-e980-44b0-99a1-f2774afaa684",
+    "center_id": "C1",
+    "method": "scan",
+    "ts": "2025-11-26T19:42:43.314Z",
+    "date": "2025-11-27",
+    "marked_by": "anonymous",
+    "name": "Attendee"
+  },
+  {
+    "student_id": "833d7c58-1ac3-4d0a-a6d9-c1eca1748808",
+    "center_id": "C1",
+    "method": "scan",
+    "ts": "2025-11-26T19:52:19.008Z",
+    "date": "2025-11-27",
+    "marked_by": "anonymous",
+    "name": "Attendee"
+  },
+  {
+    "student_id": "STUxxxxxxxx",
+    "center_id": "C1",
+    "method": "manual",
+    "ts": "2025-11-27T06:35:56.571Z",
+    "date": "2025-11-27",
+    "marked_by": "bob",
+    "status": "present",
+    "inTime": null,
+    "outTime": null,
+    "remarks": null
+  },
+  {
+    "student_id": "9de8e42b-f0af-4ffb-a21a-580f5c6258b9",
+    "center_id": "C1",
+    "method": "scan",
+    "ts": "2025-11-27T06:42:34.007Z",
+    "date": "2025-11-27",
+    "marked_by": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyXzE3NjQyMjQ5NTM1NzIiLCJ1c2VybmFtZSI6ImJvYiIsInJvbGUiOiJ2b2x1bnRlZXIiLCJjZW50ZXJfaWQiOiJDMSIsIm5hbWUiOiJib2IiLCJpYXQiOjE3NjQyMjUwNjIsImV4cCI6MTc2NDI2ODI2Mn0.qZXVPNYY8GCfNkHHcKYb9arRSFxVkFl0R-aca9ZBgFs",
+    "name": "Test Student"
+  }
+]
